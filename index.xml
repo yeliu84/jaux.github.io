@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidden Polymorphism</title>
+    <link>https://jaux.net/</link>
+    <description>Recent content on Hidden Polymorphism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2015 00:51:28 -0400</lastBuildDate>
+    <atom:link href="https://jaux.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jaux.net/post/hello-world/</link>
+      <pubDate>Fri, 24 Jul 2015 00:51:28 -0400</pubDate>
+      
+      <guid>https://jaux.net/post/hello-world/</guid>
+      <description>&lt;p&gt;This is where it all begins&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://jaux.net/about/</link>
+      <pubDate>Mon, 06 Jul 2015 23:42:24 -0400</pubDate>
+      
+      <guid>https://jaux.net/about/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;avatar&#34; src=&#34;https://jaux.net/img/avatar.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi there, I am Ye Liu.&lt;/p&gt;
+
+&lt;p&gt;I am a software developer, who&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cannot live without Mac, Linux, and Vim,&lt;/li&gt;
+&lt;li&gt;speaks JavaScript, Go, Python and C,&lt;/li&gt;
+&lt;li&gt;is passionate about web and mobile development,&lt;/li&gt;
+&lt;li&gt;is &lt;strong&gt;crazy&lt;/strong&gt; about things that are invisible but powerful.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I can also be found on &lt;a href=&#34;https://github.com/jaux&#34;&gt;GitHub&lt;/a&gt;, &lt;a href=&#34;http://stackoverflow.com/users/69172/jaux&#34;&gt;StackOverflow&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/jaux&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

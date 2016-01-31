@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hidden Polymorphism</title>
+    <link>https://jaux.net/post/</link>
+    <description>Recent content in Posts on Hidden Polymorphism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2015 00:51:28 -0400</lastBuildDate>
+    <atom:link href="https://jaux.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jaux.net/post/hello-world/</link>
+      <pubDate>Fri, 24 Jul 2015 00:51:28 -0400</pubDate>
+      
+      <guid>https://jaux.net/post/hello-world/</guid>
+      <description>&lt;p&gt;This is where it all begins&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
