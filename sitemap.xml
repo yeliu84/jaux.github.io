@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaux.net/post/20181105-filco-minila-air/</loc>
+    <lastmod>2018-11-05T17:49:38-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaux.net/post/hello-world/</loc>
     <lastmod>2015-07-24T00:51:28-04:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://jaux.net/</loc>
-    <lastmod>2015-07-24T00:51:28-04:00</lastmod>
+    <lastmod>2018-11-05T17:49:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jaux.net/post/</loc>
-    <lastmod>2015-07-24T00:51:28-04:00</lastmod>
+    <lastmod>2018-11-05T17:49:38-05:00</lastmod>
     <priority>0</priority>
   </url>
   
