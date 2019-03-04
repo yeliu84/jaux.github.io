@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2018 Ye Liu</copyright>
-    <lastBuildDate>Fri, 24 Jul 2015 00:51:28 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 00:14:45 -0500</lastBuildDate>
     
 	<atom:link href="https://jaux.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Dev Domains</title>
+      <link>https://jaux.net/post/new-dev-domains/</link>
+      <pubDate>Mon, 04 Mar 2019 00:14:45 -0500</pubDate>
+      
+      <guid>https://jaux.net/post/new-dev-domains/</guid>
+      <description>Google opened its .dev domains for anyone to purchase without the early access fee a few days ago, every developer should grab a .dev domain to showcase their great creations and works in my opinion, so I have grabbed two for myself 😁.
+I will need some time to figure out a better use of those domains, but for the time being, my shiny new domains, yeliu.dev and liuye.dev, will be redirect to here.</description>
+    </item>
     
     <item>
       <title>Hello World</title>
