@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2019 Ye Liu</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 00:14:45 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 14:04:44 -0500</lastBuildDate>
     
 	<atom:link href="https://jaux.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Start Learning Emacs</title>
+      <link>https://jaux.net/post/20190308-start-learning-emacs/</link>
+      <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
+      
+      <guid>https://jaux.net/post/20190308-start-learning-emacs/</guid>
+      <description>March 7th, 2019.
+I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.
+Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+    </item>
     
     <item>
       <title>New Dev Domains</title>
